@@ -1,0 +1,1 @@
+ping pong use two thread by [rayon](https://github.com/rayon-rs/rayon), comminute with tokio channel [blocking_send](https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.Sender.html#method.blocking_send)/[blocking_recv](https://docs.rs/tokio/latest/tokio/sync/broadcast/struct.Receiver.html#method.blocking_recv)
